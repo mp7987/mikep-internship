@@ -11769,7 +11769,7 @@ section.bg-grey {
 }
 
 .wow {
-  visibility: hidden;
+  visibility: visible;
 }
 
 #back-to-top {
